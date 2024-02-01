@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-weather-app/static/css/main.8eaaac8d.css",
+    "main.js": "/my-weather-app/static/js/main.aaee5666.js",
+    "static/js/787.201f3e51.chunk.js": "/my-weather-app/static/js/787.201f3e51.chunk.js",
+    "static/media/Soothing-nature-backgrounds-2.jpg.webp": "/my-weather-app/static/media/Soothing-nature-backgrounds-2.jpg.5ad68aaef5cb7745b899.webp",
+    "index.html": "/my-weather-app/index.html",
+    "main.8eaaac8d.css.map": "/my-weather-app/static/css/main.8eaaac8d.css.map",
+    "main.aaee5666.js.map": "/my-weather-app/static/js/main.aaee5666.js.map",
+    "787.201f3e51.chunk.js.map": "/my-weather-app/static/js/787.201f3e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eaaac8d.css",
+    "static/js/main.aaee5666.js"
+  ]
+}
